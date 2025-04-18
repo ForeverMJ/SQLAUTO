@@ -1,4 +1,4 @@
-# SQL Auto Test Agent
+# SQLAUTO
 
 SQLクエリの自動テスト生成と実行を行うツールです。
 
@@ -13,8 +13,8 @@ SQLクエリの自動テスト生成と実行を行うツールです。
 
 1. リポジトリをクローン:
 ```bash
-git clone https://github.com/yourusername/sql-auto-test.git
-cd sql-auto-test
+git clone https://github.com/ForeverMJ/SQLAUTO.git
+cd SQLAUTO
 ```
 
 2. 仮想環境を作成して有効化:
@@ -52,4 +52,4 @@ MIT
 
 ## 作者
 
-Your Name
+ForeverMJ
