@@ -1,0 +1,10 @@
+# 项目依赖
+langchain==0.1.12
+langgraph==0.3.31
+openai
+sqlparse==0.4.4
+sqlite-utils
+streamlit==1.32.0
+transformers==4.38.2
+torch==2.2.1
+langchain-community==0.0.27
